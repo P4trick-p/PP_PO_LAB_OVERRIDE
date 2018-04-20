@@ -1,0 +1,9 @@
+﻿  Source.cpp
+f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(100): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(230): error C2065: 'pkt3d': undeclared identifier
+f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(230): error C2228: left of '.x' must have class/struct/union
+  f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(230): note: type is 'unknown-type'
+f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(230): error C2228: left of '.y' must have class/struct/union
+  f:\#github\vs\pp_po_lab_override\pp_po_lab_punkty\source.cpp(230): note: type is 'unknown-type'
